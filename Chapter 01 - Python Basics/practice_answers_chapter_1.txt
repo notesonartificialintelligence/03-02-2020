@@ -1,0 +1,50 @@
+#Gabriel Abraham
+#notesonartificialintelligence
+#Automate The Borning Stuff With Python - Chapter 1
+#Practice Questions(Only Answers).
+
+"""
+1.	Which of the following are operators, and which are values? (Below are the Answers.)
+	OP
+	Value
+	Value
+	OP
+	OP
+	OP
+	value
+
+2.	Which of the following is a variable, and which is a string?
+	variable
+	string
+
+3.	Name three data types
+	integer
+	floating point
+	string
+
+4.	What is an expression made up of? What do all expressions do?
+	An expressino is made up of a value, and operator 2 + 2
+	Expressions reduce down to a single value.
+
+5.  What is the difference between an expression and a statements?
+	An enpression will always reduce to a single value, 
+	A statement will assign a value to a variable.
+
+6.	What does the variable bacon contain after the following code runs?
+	20. Use the += operator to add the value 1 to the value assigned to variable bacon
+
+7.	What should the following two expresion evaluate to?
+	spamspamspam
+	error
+
+8.	Why is edds a valid variable name while 100 is invalid?
+	Variable names cannot start with a number.
+
+9.	What three functions can be used to get the integer, floating-point number, or string version of a value?
+	int()
+	float()
+	str()
+
+10.	Why does this expression cause an error?
+	Because you cannot add a string to a integer, one must convert the integer to a string.
+"""
